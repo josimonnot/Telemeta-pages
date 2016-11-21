@@ -33,7 +33,7 @@ Derzeit stehen 21.000 Aufnahmen als frei zugänglich (free access) zur Verfügun
 Aufbau des Katalogs
 -------------------
 
-Die Datenbank ist in 4 hierarchischen Beschreibungsebenen organisiert: Archives Series (Fonds) > Corpus > Sammlungen > Elemente. Die Hauptebene ist ’Sammlungen’. Jede Sammlung umfasst ein entsprechendes Ensemble von Klangelementen, die entweder während einer Feldforschung aufgenommen wurden oder publizierte Aufnahmen sind. Einige Sammlungen sind unter „Korpus“ und Archivgruppen zusammengeführt und sind mit ihren Sammlern verbunden.
+Die Datenbank ist in 4 hierarchischen Beschreibungsebenen organisiert: Archiveseries (Fonds) > Korpus > Sammlungen > Elemente. Die Hauptebene ist ’Sammlungen’. Jede Sammlung umfasst ein entsprechendes Ensemble von Klangelementen, die entweder während einer Feldforschung aufgenommen wurden oder publizierte Aufnahmen sind. Einige Sammlungen sind unter „Korpus“ und Archivgruppen zusammengeführt und sind mit ihren Sammlern verbunden.
 
 Die Anzahl der zugänglichen Aufnahmen steigt beständig. Sie werden von einem Lautsprecher bezeichnet. Die User der Plattform werden gebeten einige Angabe über die Art ihrer Tätigkeit anzugeben (Forscherin und Forscher, Studierende, Archivmitarbeiterin und Archivmitarbeiter).
 
