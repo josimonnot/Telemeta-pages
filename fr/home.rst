@@ -27,7 +27,7 @@ Géré par le `Centre de Recherche en Ethnomusicologie (CREM) <http://crem-cnrs.
 |  ✔ Plus de 15 000 enregistrements sonores édités, dont 5 200 numérisés, pour environ 4 000 heures (plus de 5 000 disques dont beaucoup sont très rares).
 |  ✔ 199 pays sont représentés à travers plus de 1 200 groupes ethniques ou sociaux, donnant à entendre une large palette de pratiques musicales (instrumentales et vocales), de langues et de dialectes.
 
-Actuellement, plus de 24 000 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <http://crem-cnrs.fr/contacts>`_, à la `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, à la `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_. 
+Actuellement, plus de 26 000 enregistrements sont en libre accès. D'autres sont consultables avec un code d'accès. Pour l'obtenir écrivez à crem.lesc (at) cnrs.fr en expliquant les motifs de votre demande. Le fonds d'archives est également consultable sur les postes dédiés disponibles au `CREM <http://crem-cnrs.fr/contacts>`_, à la `Bibliothèque Eric de Dampierre <http://www.mae.u-paris10.fr/bibethno/>`_, à la `Médiathèque du Musée du Quai Branly <http://www.quaibranly.fr/fr/enseignement/la-mediatheque.html>`_ et à la `Bibliothèque du Muséum National d’Histoire Naturelle <http://bibliotheques.mnhn.fr/>`_. 
 
 |
 
